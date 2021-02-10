@@ -1,5 +1,6 @@
-## Criptografia
+## CRIPTOGRAFÍA
 
-[Introducción](./introduccion/index.md) 
+* [Introducción](./introduccion/index.md)
+* [Aproximación para Problemas NP](./aproximacionParaProblemasNPM/index.md) 
 
 
